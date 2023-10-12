@@ -1,1 +1,3 @@
-# todo
+# Yarn install
+
+# Yarn dev

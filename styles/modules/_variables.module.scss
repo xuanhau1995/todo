@@ -1,0 +1,5 @@
+$primary-color: #64ff00;
+$background: linear-gradient(rgba(255, 255, 255, 0.05), rgba(255, 255, 255, 0.05));
+:export {
+  primaryColor: $primary-color;
+}

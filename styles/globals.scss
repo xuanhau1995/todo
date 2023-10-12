@@ -1,0 +1,11 @@
+@import "./modules/mixin";
+@import "./modules/font";
+@import "./modules/variables.module.scss";
+
+body {
+  margin: 0px;
+}
+
+button {
+  text-transform: none !important;
+}
